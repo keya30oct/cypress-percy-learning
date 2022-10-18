@@ -1,1 +1,1 @@
-# cypress-percy-poc
+# cypress-percy-learning
